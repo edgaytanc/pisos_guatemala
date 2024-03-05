@@ -1,0 +1,11 @@
+digraph {
+	node [fixedsize=true height=0.6 shape=square style=filled width=0.6]
+	"0_0" [label="" fillcolor=black pos="0.0,0.0!"]
+	"0_1" [label="" fillcolor=white pos="0.6,0.0!"]
+	"0_2" [label="" fillcolor=black pos="1.2,0.0!"]
+	"0_3" [label="" fillcolor=white pos="1.7999999999999998,0.0!"]
+	"1_0" [label="" fillcolor=white pos="0.0,-0.6!"]
+	"1_1" [label="" fillcolor=white pos="0.6,-0.6!"]
+	"1_2" [label="" fillcolor=white pos="1.2,-0.6!"]
+	"1_3" [label="" fillcolor=white pos="1.7999999999999998,-0.6!"]
+}

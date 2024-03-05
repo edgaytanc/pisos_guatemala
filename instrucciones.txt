@@ -1,0 +1,3 @@
+Intercambiar (0, 0) con (0, 1)
+Intercambiar (0, 2) con (0, 3)
+Voltear (1, 3)
